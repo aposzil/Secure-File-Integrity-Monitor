@@ -1,0 +1,12 @@
+# Database and Security files
+integrity_vault.dat
+integrity_vault.bak
+user.salt
+app.meta
+
+# Python environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
